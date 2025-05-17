@@ -1,5 +1,9 @@
 # 📊 Atliq Hardware Analytics Project
 
+🎯 **Project Summary**
+
+This analytics project explores Atliq Hardware's performance across finance, sales, marketing, and supply chain using SQL, Power BI, and Excel. It aims to uncover key business trends and guide data-driven decision-making through interactive dashboards and visual storytelling.
+
 ## 📁 Overview
 
 **Atliq Hardware** is one of the fastest-growing companies in the global electronics market. It sells computer hardware products such as PCs, printers, and accessories through various channels—including **Retailers**, **Distributors**, and **Direct Sales**. These products reach end-consumers via both **E-Commerce platforms** and **Brick & Mortar stores**.
@@ -88,9 +92,41 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 
 ## 📈 Key Insights & Recommendations (Optional)
 
-<!-- Add bullet points or visuals to highlight major findings and business recommendations here. -->
+## 📈 Key Insights & Recommendations
+
+- 🔻 **Latin America Underperformance:** Sales in the newly opened Latin American retail store were 27% lower than forecasted, indicating poor market-fit analysis. It’s recommended to conduct thorough market research before future expansions.
+
+- 💡 **E-Commerce Outperforms Physical Stores:** Across most product lines, online sales consistently outpaced those from brick-and-mortar stores—suggesting a strategic focus on strengthening digital channels.
+
+- 🛒 **Printer Accessories Overstocked:** Inventory turnover rate for printer accessories is 30% below average. Realigning procurement based on demand forecasting will reduce excess holding costs.
+
+- 📢 **Marketing Spend Mismatch:** Regions with high campaign spending didn’t always show a corresponding rise in sales. Reallocate budgets based on performance analytics to maximize ROI.
+
+- 📊 **Executive View Streamlining:** Key performance indicators (KPIs) for revenue, gross margin, and net profit are now unified in one dashboard—improving visibility for leadership and enabling faster decisions.
 
 ---
 
 ## 📂 Folder Structure (Optional)
 
+Atliq-Hardware-Analytics/
+│
+├── data/                     # Raw and cleaned datasets (CSV, Excel files)
+│   ├── raw/                  # Original unprocessed data files
+│   └── cleaned/              # Preprocessed, ready-for-use data
+│
+├── sql-scripts/             # SQL queries for data extraction, transformation, and loading (ETL)
+│   ├── create_tables.sql
+│   └── data_cleaning.sql
+│
+├── powerbi/                 # Power BI dashboard files (.pbix)
+│   └── Atliq_Analytics_Dashboard.pbix
+│
+├── documentation/           # Project Charter, README, business notes
+│   ├── Project_Charter.pdf
+│   └── README.md
+│
+├── assets/                  # Images, GIFs, and visual aids used in documentation
+│   ├── Data_Modelling.png
+│   └── Dashboard_Demo.gif
+│
+└── requirements.txt         # (Optional) Environment setup instructions or dependencies
