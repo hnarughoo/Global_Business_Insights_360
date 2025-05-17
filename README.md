@@ -1,6 +1,6 @@
 # 📊 Atliq Hardware Analytics Project
 
-🎯 **Project Summary**
+## 🎯 Project Summary
 
 This analytics project explores Atliq Hardware's performance across finance, sales, marketing, and supply chain using SQL, Power BI, and Excel. It aims to uncover key business trends and guide data-driven decision-making through interactive dashboards and visual storytelling.
 
