@@ -66,6 +66,7 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 4. **Data Modeling & Reporting**
    - Data was imported into **Power BI Desktop** to build a robust data model using **DAX language**.
    - Relationships, measures, and calculated columns were defined to support dynamic reporting.
+     
 ![Data Modelling](https://github.com/user-attachments/assets/8a0124a4-c7de-4d3f-b31a-1d4c45a2b01a)
 
 5. **Dashboard Development**
