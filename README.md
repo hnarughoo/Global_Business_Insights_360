@@ -69,9 +69,17 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
      
 ![Data Modelling](https://github.com/user-attachments/assets/8a0124a4-c7de-4d3f-b31a-1d4c45a2b01a)
 
-5. **Dashboard Development**
-   - Interactive dashboards were created in Power BI to provide insights into key metrics such as sales performance, channel contribution, and regional growth.
+5. **Dashboard Development** 
    - Reports were optimized using **DAX Studio** to enhance query performance.
+   - Interactive dashboards were created in Power BI to provide insights into key metrics such as Finance, Sales, Marketing, Supply Chain, and Executive, each offering insights tailored to different teams.
+     
+   [Uploading Final Recordings_17.05.2025.pptx…]()
+  
+   - On the Home Page, users can easily navigate to the relevant view.
+   - The Finance View shows trends in revenue and profit over time.
+   - The Sales View breaks down performance by product and region, while the Marketing View helps track the impact of campaigns and customer behavior.
+   - The Supply Chain View provides insights into inventory and supplier data, and the Executive View brings all the key metrics together for high-level decision-making.
+
 
 6. **Documentation**
    - A **Project Charter File** was created to define the project scope, objectives, stakeholders, deliverables, and timelines.
