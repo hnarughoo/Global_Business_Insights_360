@@ -72,16 +72,8 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 5. **Dashboard Development** 
    - Reports were optimized using **DAX Studio** to enhance query performance.
    - Interactive dashboards were created in Power BI to provide insights into key metrics such as Finance, Sales, Marketing, Supply Chain, and Executive, each offering insights tailored to different teams.
-   
 
-https://github.com/user-attachments/assets/968778e6-e695-444d-b598-fa4a430ddad8
-
-  
-
-
-
-
-    
+![Dashboard Preview](https://github.com/user-attachments/assets/968778e6-e695-444d-b598-fa4a430ddad8)
 
    - On the Home Page, users can easily navigate to the relevant view.
    - The Finance View shows trends in revenue and profit over time.
