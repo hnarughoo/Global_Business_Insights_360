@@ -108,25 +108,42 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 
 ## 📂 Folder Structure (Optional)
 
-Atliq-Hardware-Analytics/
-│
-├── data/                     # Raw and cleaned datasets (CSV, Excel files)
-│   ├── raw/                  # Original unprocessed data files
-│   └── cleaned/              # Preprocessed, ready-for-use data
-│
-├── sql-scripts/             # SQL queries for data extraction, transformation, and loading (ETL)
-│   ├── create_tables.sql
-│   └── data_cleaning.sql
-│
-├── powerbi/                 # Power BI dashboard files (.pbix)
-│   └── Atliq_Analytics_Dashboard.pbix
-│
-├── documentation/           # Project Charter, README, business notes
-│   ├── Project_Charter.pdf
-│   └── README.md
-│
-├── assets/                  # Images, GIFs, and visual aids used in documentation
-│   ├── Data_Modelling.png
-│   └── Dashboard_Demo.gif
-│
-└── requirements.txt         # (Optional) Environment setup instructions or dependencies
+## 📂 Folder Structure
+
+<details>
+  <summary>data/</summary>
+
+  - <code>raw/</code> — Original data files (CSV, Excel) collected from various sources.  
+  - <code>cleaned/</code> — Cleaned and processed datasets ready for analysis.  
+</details>
+
+<details>
+  <summary>powerbi/</summary>
+
+  - <code>dashboard.pbix</code> — Main Power BI dashboard file for visualization and reporting.  
+</details>
+
+<details>
+  <summary>documentation/</summary>
+
+  - <code>Project_Charter.pdf</code> — Defines project scope, objectives, and deliverables.  
+  - <code>Screenshots/</code> — Images and GIFs of dashboards and reports.  
+</details>
+
+<details>
+  <summary>assets/</summary>
+
+  - <code>Dashboard_GIF.gif</code> — Animated GIF preview of the Power BI dashboard in action.  
+</details>
+
+<details>
+  <summary>sql_queries/</summary>
+
+  - SQL scripts used for data cleaning, transformation, and exploratory analysis.  
+</details>
+
+<details>
+  <summary>reports/ (optional)</summary>
+
+  - Exported reports (PDF, PPT) for stakeholder presentations and summaries.  
+</details>
