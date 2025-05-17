@@ -90,8 +90,6 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 
 ---
 
-## 📈 Key Insights & Recommendations (Optional)
-
 ## 📈 Key Insights & Recommendations
 
 - 🔻 **Latin America Underperformance:** Sales in the newly opened Latin American retail store were 27% lower than forecasted, indicating poor market-fit analysis. It’s recommended to conduct thorough market research before future expansions.
@@ -105,36 +103,6 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 - 📊 **Executive View Streamlining:** Key performance indicators (KPIs) for revenue, gross margin, and net profit are now unified in one dashboard—improving visibility for leadership and enabling faster decisions.
 
 ---
-
-## 📂 Folder Structure (Optional)
-## 📂 Folder Structure
-
-### data/
-- raw/  
-  Original data files (CSV, Excel) collected from various sources.
-- cleaned/  
-  Cleaned and processed datasets ready for analysis.
-
-### powerbi/
-- dashboard.pbix  
-  Main Power BI dashboard file for visualization and reporting.
-
-### documentation/
-- Project_Charter.pdf  
-  Defines project scope, objectives, and deliverables.
-- Screenshots/  
-  Images and GIFs of dashboards and reports.
-
-### assets/
-- Dashboard_GIF.gif  
-  Animated GIF preview of the Power BI dashboard in action.
-
-### sql_queries/
-- SQL scripts used for data cleaning, transformation, and exploratory analysis.
-
-### reports/ (optional)
-- Exported reports (PDF, PPT) for stakeholder presentations and summaries.
-
 
 ## 📂 Folder Structure
 
