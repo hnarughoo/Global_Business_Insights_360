@@ -107,6 +107,34 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 ---
 
 ## 📂 Folder Structure (Optional)
+## 📂 Folder Structure
+
+### data/
+- raw/  
+  Original data files (CSV, Excel) collected from various sources.
+- cleaned/  
+  Cleaned and processed datasets ready for analysis.
+
+### powerbi/
+- dashboard.pbix  
+  Main Power BI dashboard file for visualization and reporting.
+
+### documentation/
+- Project_Charter.pdf  
+  Defines project scope, objectives, and deliverables.
+- Screenshots/  
+  Images and GIFs of dashboards and reports.
+
+### assets/
+- Dashboard_GIF.gif  
+  Animated GIF preview of the Power BI dashboard in action.
+
+### sql_queries/
+- SQL scripts used for data cleaning, transformation, and exploratory analysis.
+
+### reports/ (optional)
+- Exported reports (PDF, PPT) for stakeholder presentations and summaries.
+
 
 ## 📂 Folder Structure
 
