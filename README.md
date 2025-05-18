@@ -1,4 +1,4 @@
-# 📊 Atliq Hardware Analytics Project
+# 📊 Atliq Hardware Analytics Project: Business Insights 360 
 
 ## 🎯 Project Summary
 
