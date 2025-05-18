@@ -48,34 +48,46 @@ As a result, the company decided to establish a **Data Analytics Team** with a c
 | Data Preparation     | Excel                                      |
 | Reporting Language   | DAX Language                               |
 | Performance Tuning   | DAX Studio                                 |
-| Documentation        | Project Charter File                       |
+| Documentation        | Project Charter                   |
 
 ---
 
 ## 🏗️ Project Architecture
 
-This section outlines the end-to-end workflow used in the Atliq Hardware Analytics project:
+This section outlines the end-to-end workflow used in the Atliq Hardware Business Insights 360 project:
 
-1. **Data Collection**
-   - Raw sales and operational data were collected from multiple sources such as Excel files and internal databases.
-   - Historical performance data and external market data were gathered to support benchmarking.
+### 📌 Project Planning and Scoping
+- The project commenced with a **kickoff meeting** involving key stakeholders to align on the project's objectives, timelines, and deliverables.
+- A detailed **project charter** was created to outline the scope, key business questions, data requirements, success criteria, and assigned responsibilities.
+- This phase provided a strategic roadmap and ensured all teams were aligned for smooth execution.
 
-2. **Data Storage**
-   - All cleaned and structured data were stored in a centralized **MySQL** database for easy querying and scalability.
+### 📥 Data Collection
+- The **Data Engineering team** provided curated datasets based on the specific requirements defined by the **Data Analytics team**.
+- Data sources included **Excel files**, **CSV exports**, and **internal databases**, capturing both sales and operational metrics.
 
-3. **Data Preparation**
-   - Initial data exploration and validation were done using **Excel**.
-   - Complex transformations and aggregations were performed using **SQL** queries.
+### 🗄️ Data Storage
+- All cleaned and structured data were stored in a centralized **MySQL** database to enable efficient querying, consistency, and scalability.
 
-4. **Data Modeling & Reporting**
-   - Data was imported into **Power BI Desktop** to build a robust data model using **DAX language**.
-   - Relationships, measures, and calculated columns were defined to support dynamic reporting.
+### 🧹 Data Preparation
+- Initial data exploration and validation were performed using **Excel** to quickly identify anomalies and patterns.
+- Advanced data transformations, joins, and aggregations were handled using **SQL** to prepare the datasets for further analysis and visualization.
+
+### 📊 Data Modeling & Reporting
+- Data was imported into **Power BI Desktop** to build a robust and scalable data model tailored for business insights.
+- Using **DAX (Data Analysis Expressions)**, custom measures and calculated columns were created to support complex calculations and KPIs.
+- Relationships between tables were defined to enable seamless, interactive, and dynamic reporting across multiple dimensions.
      
 ![Data Modelling](https://github.com/user-attachments/assets/8a0124a4-c7de-4d3f-b31a-1d4c45a2b01a)
 
-5. **Dashboard Development** 
-   - Reports were optimized using **DAX Studio** to enhance query performance.
-   - Interactive dashboards were created in Power BI to provide insights into key metrics such as Finance, Sales, Marketing, Supply Chain, and Executive, each offering insights tailored to different teams.
+### 📈 Dashboard Development
+- Reports were optimized with **DAX Studio** to improve query performance and ensure faster load times.
+- Interactive dashboards were built in **Power BI**, offering tailored insights across key business domains:
+  - **Finance**
+  - **Sales**
+  - **Marketing**
+  - **Supply Chain**
+  - **Executive**
+- Each dashboard was designed to meet the specific analytical needs of different teams, enabling data-driven decision-making across the organization.
 
 ![Business_Insights_360_Dashboard-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed43abec-9ba9-4add-a6a6-796bddc438f8)
 
@@ -85,22 +97,20 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
    - The Supply Chain View provides insights into inventory and supplier data, and the Executive View brings all the key metrics together for high-level decision-making.
 
 
-5. **Documentation**
-   - A **Project Charter File** was created to define the project scope, objectives, stakeholders, deliverables, and timelines.
 
 ---
 
 ## 📈 Key Insights & Recommendations
 
-- 🔻 **Latin America Underperformance:** Sales in the newly opened Latin American retail store were 27% lower than forecasted, indicating poor market-fit analysis. It’s recommended to conduct thorough market research before future expansions.
+- 📉 **Market Entry Considerations:** Expansion into new regions benefits from thorough market research and the use of predictive analytics to support decision-making.
 
-- 💡 **E-Commerce Outperforms Physical Stores:** Across most product lines, online sales consistently outpaced those from brick-and-mortar stores—suggesting a strategic focus on strengthening digital channels.
+- 🌐 **Channel Performance Monitoring:** Continuous analysis of sales channels is important to understand their respective contributions and inform strategy.
 
-- 🛒 **Printer Accessories Overstocked:** Inventory turnover rate for printer accessories is 30% below average. Realigning procurement based on demand forecasting will reduce excess holding costs.
+- 📦 **Inventory Management:** Regular evaluation of inventory levels and turnover rates helps optimize supply chain operations and reduce costs.
 
-- 📢 **Marketing Spend Mismatch:** Regions with high campaign spending didn’t always show a corresponding rise in sales. Reallocate budgets based on performance analytics to maximize ROI.
+- 📊 **Marketing Effectiveness:** Analyzing marketing spend relative to sales outcomes supports more targeted and efficient campaign planning.
 
-- 📊 **Executive View Streamlining:** Key performance indicators (KPIs) for revenue, gross margin, and net profit are now unified in one dashboard—improving visibility for leadership and enabling faster decisions.
+- 🧭 **Executive Reporting:** Consolidated key performance indicators (KPIs) across business areas enhance visibility and support leadership decisions.
 
 ---
 
@@ -143,3 +153,22 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Analyti
 
   - Exported reports (PDF, PPT) for stakeholder presentations and summaries.  
 </details>
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+Please ensure any changes align with the project objectives and maintain code quality.
+
+---
+
+## 📫 Contact
+
+For questions or collaboration, please reach out via:
+
+- Email: hna.rughoo@gmail.com  
+- LinkedIn: [Vandana Rughoo](https://www.linkedin.com/in/vandana-rughoo-a018aa4a/)
+
+
+
