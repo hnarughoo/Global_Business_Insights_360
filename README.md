@@ -91,6 +91,8 @@ This section outlines the end-to-end workflow used in the Atliq Hardware Busines
 
 ![Business_Insights_360_Dashboard-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed43abec-9ba9-4add-a6a6-796bddc438f8)
 
+<img src="https://github.com/user-attachments/assets/ed43abec-9ba9-4add-a6a6-796bddc438f8" alt="Business Insights 360 Dashboard GIF" width="600" height="338" />
+
    - On the Home Page, users can easily navigate to the relevant view.
    - The Finance View shows trends in revenue and profit over time.
    - The Sales View breaks down performance by product and region, while the Marketing View helps track the impact of campaigns and customer behavior.
